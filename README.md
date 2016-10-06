@@ -8,3 +8,6 @@ Includes:
 - customer.js customer handling lambda function
 
 
+Team members: son2105,mal2291,eek2138,jcv2130,cdn2118
+
+
